@@ -443,9 +443,12 @@ header nav ul li a:hover
 .team-area .sub-heading{
     margin-bottom:100px;
 }
+.team-area .row{
+    text-align: center;
+}
 .team-man{
     position: absolute;
-    left:90%;
+    left:45%;
     margin-left:-15px;
     top:-50px;
     overflow:hidden;
