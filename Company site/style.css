@@ -56,7 +56,7 @@ header nav ul li a:hover
 }
 .img1
 {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/slider1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/slider1.jpg);
     background-size:  1600px 1700px;
 
     
@@ -118,13 +118,13 @@ header nav ul li a:hover
 
 .img2
 {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/mkb90.PNG);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/mkb90.PNG);
     background-size:500px 500px;
 
 }
 .img3
 {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/mkb5.PNG);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/mkb5.PNG);
     background-size:500px 800px;
 }
 .slider i
@@ -244,7 +244,7 @@ header nav ul li a:hover
 }
 .feature-area
 {
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/paint1.PNG);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/paint1.PNG);
     background-position: center;
     background-attachment: fixed;
 }
@@ -407,7 +407,7 @@ header nav ul li a:hover
  }
 
 .testimonials{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/product.PNG);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/product.PNG);
     background-size:cover;
     background-position:center;
     background-attachment: fixed;
@@ -574,11 +574,11 @@ header nav ul li a:hover
 }
 .download
 {
-    background-image: ;
+    /* background-image: ; */
 }
 .download
 {
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//img/aaj.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/aaj.jpg);
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
